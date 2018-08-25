@@ -7,7 +7,7 @@ Single-page application which sends [browser] notifications when new slots (`ren
 - Opera (needs [CORS Toggle](https://addons.opera.com/en/extensions/details/cors-toggle/) add-on)
 
 ## Usage
-1. Go to [GNIB Appointment Finder app](http://marioluan.github.io/gnib-appointment-finder);
+1. Go to https://marioluan.github.io/gnib-appointment-finder/index.html;
 1. Click on `Enable Notifications`;
 1. You'll receive a [browser notification](https://developer.mozillaorg/en-US/docs/Web/API/notification) when new slots become available;
 1. That's it!
