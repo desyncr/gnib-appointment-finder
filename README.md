@@ -9,7 +9,7 @@ Single-page application which sends [browser] notifications when new slots (`ren
 ## Usage
 1. Go to https://marioluan.github.io/gnib-appointment-finder/index.html;
 1. Click on `Enable Notifications`;
-1. You'll receive a [browser notification](https://developer.mozillaorg/en-US/docs/Web/API/notification) when new slots become available;
+1. You'll receive a [browser notification](https://developer.mozilla.org/en-US/docs/Web/API/notification) when new slots become available;
 1. That's it!
 
 ## Note
