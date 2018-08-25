@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# GNIB Appointment Finder
+Single-page application which sends [browser] notifications when new slots (`renewal of work permit holders`) become available.
 
-You can use the [editor on GitHub](https://github.com/marioluan/gnib-appointment-finder/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Supported Browsers
+- Firefox (needs [CORS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/cors-everywhere/?src=recommended) add-on)
+- Chrome (needs [Allow-Control-Allow-Origin:*](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi) extension)
+- Opera (needs [CORS Toggle](https://addons.opera.com/en/extensions/details/cors-toggle/) add-on)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Usage
+1. Go to [GNIB Appointment Finder app](http://marioluan.github.io/gnib-appointment-finder);
+1. Click on `Enable Notifications`;
+1. You'll receive a [browser notification](https://developer.mozillaorg/en-US/docs/Web/API/notification) when new slots become available;
+1. That's it!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marioluan/gnib-appointment-finder/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Note
+**You need to `keep the tab open` to receive the notifications.**
