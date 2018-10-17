@@ -1,5 +1,5 @@
 # GNIB Appointment Finder
-Single-page application which sends [browser] notifications when new slots (`renewal of work permit holders`) become available.
+Single-page application which sends [browser] notifications when new slots (`renewal of work permit holders and family members`) become available.
 
 ## Supported Browsers
 - Firefox (needs [CORS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/cors-everywhere/?src=recommended) add-on)
@@ -8,6 +8,9 @@ Single-page application which sends [browser] notifications when new slots (`ren
 
 ## Usage
 1. Go to https://marioluan.github.io/gnib-appointment-finder/index.html;
+1. Choose:
+    - `Work` for permit holders;
+    - `Other` for family member;
 1. Click on `Enable Notifications`;
 1. You'll receive a [browser notification](https://developer.mozilla.org/en-US/docs/Web/API/notification) when new slots become available;
 1. That's it!
