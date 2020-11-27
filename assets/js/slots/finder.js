@@ -19,7 +19,7 @@ class SlotsFinder {
   }
 
   static chooseURL(category) {
-    return `${URLPrefix}&cat=${category}`;
+    return `${URLPrefix}&cat=All`;
   }
 }
 
