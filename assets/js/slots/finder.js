@@ -1,4 +1,4 @@
-let URLPrefix = 'https://burghquayregistrationoffice.inis.gov.ie/Website/AMSREG/AMSRegWeb.nsf/(getAppsNear)?readform&sbcat=All&typ=New';
+let URLPrefix = 'https://burghquayregistrationoffice.inis.gov.ie/Website/AMSREG/AMSRegWeb.nsf/(getAppsNear)?readform=&cat=All&sbcat=All&typ=New&k=35DBA8E54C014CA3563BDB2EF64CD14C&p=EBC9DA953034DCA0D2C0CA44A1ED12D6&_=1606476456821';
 
 class SlotsFinder {
   static find(category) {
